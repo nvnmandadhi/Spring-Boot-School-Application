@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	line-height: 30px;
+	height: 30px;
+	width: 100%;
+}
+
+.footer p {
+	text-align: center;
+	margin: 0px;
+}
+
+.form {
+	width: 30%;
+	margin: 10% auto;
+}
